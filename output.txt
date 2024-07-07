@@ -1,0 +1,205 @@
+1. Nhap du lieu vao file SV.BIN
+Ma so sinh vien: 20216793
+Ho dem: dam thi
+Ten: anh
+Gioi tinh: nu
+Ngay Sinh: 16/07/2003
+
+2. Nhap du lieu vao file HP.BIN
+Nhap ma hoc phan: mi2020
+Nhap ten mon hoc: nhap mon toan tin
+Nhap so tin chi: 3
+
+3. Nhap du lieu vao file DIEM.BIN
+Nhap ma hoc phan: mi2020
+Nhap ma sinh vien: 20216793
+Nhap diem: 8.5
+
+1. Bo sung sinh vien
+Ma so sinh vien: 20216878
+Ho dem: le thi
+Ten: quynh
+Gioi tinh: nu
+Ngay Sinh: 22/02/2003
+
+2. Bo sung hoc phan
+Nhap ma hoc phan: mi1110
+Nhap ten mon hoc: giai tich 1
+Nhap so tin chi: 4
+
+3. Bo sung diem
+Nhap ma hoc phan: mi1110
+Nhap ma sinh vien: 20216793
+Nhap diem: 3
+
+1. Bo sung sinh vien
+Ma so sinh vien: 20210001
+Ho dem: tran anh
+Ten: duy
+Gioi tinh: nam
+Ngay Sinh: 31/12/2003
+
+1. Bo sung sinh vien
+Ma so sinh vien: 20210003
+Ho dem: nguyen manh
+Ten: quan
+Gioi tinh: nam
+Ngay Sinh: 15/09/2003
+
+2. Bo sung hoc phan
+Nhap ma hoc phan: mi1120
+Nhap ten mon hoc: giai tich 2
+Nhap so tin chi: 3
+
+3. Bo sung diem
+Nhap ma hoc phan: mi2020
+Nhap ma sinh vien: 20210001
+Nhap diem: 3
+
+3. Bo sung diem
+Nhap ma hoc phan: mi2020
+Nhap ma sinh vien: 20210003
+Nhap diem: 5
+
+1. Bo sung sinh vien
+1. Bo sung sinh vien
+Ma so sinh vien: 20210002
+Ho dem: nguyen anh
+Ten: minh
+Gioi tinh: nam
+Ngay Sinh: 15/07/2003
+
+1. Xóa sinh vien
+Danh sach con lai la
+MSSV: 20216793
+Ho dem: dam thi
+Ten sinh vien: anh
+Gioi tinh: nu
+Ngay sinh: 16/07/2003
+
+MSSV: 20216878
+Ho dem: le thi
+Ten sinh vien: quynh
+Gioi tinh: nu
+Ngay sinh: 22/02/2003
+
+MSSV: 20210001
+Ho dem: tran anh
+Ten sinh vien: duy
+Gioi tinh: nam
+Ngay sinh: 31/12/2003
+
+MSSV: 20210003
+Ho dem: nguyen manh
+Ten sinh vien: quan
+Gioi tinh: nam
+Ngay sinh: 15/09/2003
+
+2. Xoa hoc phan
+Danh sach con lai la
+Ma hoc phan: mi2020
+Ten mon hoc: nhap mon toan tin
+So tin chi: 3
+
+Ma hoc phan: mi1110
+Ten mon hoc: giai tich 1
+So tin chi: 4
+
+3. Xoa diem thi
+Danh sach con lai la
+Ma hoc phan: mi2020
+Ma so sinh vien: 20216793
+Diem thi: 8.5
+
+Ma hoc phan: mi1110
+Ma so sinh vien: 20216793
+Diem thi: 3
+
+Ma hoc phan: mi2020
+Ma so sinh vien: 20210001
+Diem thi: 3
+
+1. Sua sinh vien
+Nhap thong tin sinh vien moi: 
+Thong tin sinh vien sau khi sua:
+Ma SV: 20216793
+Ho dem: dam anh
+Ten: anh
+Gioi tinh: nu
+Ngay Sinh: 16/07/2003
+
+2. Sua hoc phan
+Thong tin hoc phan sau khi sua:
+Ma hoc phan: mi1110
+Ten hoc phan: giai tich 1
+So tin chi: 3
+
+3. Sua diem thi
+Thong tin diem thi sau khi sua:
+Ma hoc phan: mi2020
+Ma so sinh vien: 20216793
+Diem thi: 8
+
+3. Tinh diem trung binh tich luy cua sinh vien 
+Ma so sinh vien: 20216793
+Diem trung binh tich luy: 1.75
+
+4. Hien thi sinh vien theo hoc phan
+Ma so sinh vien: 20216793
+Ho dem: dam anh
+Ten: anh
+Diem: 8
+
+Ma so sinh vien: 20210001
+Ho dem: tran anh
+Ten: duy
+Diem: 3
+
+5. Hien thi danh sach sinh vien chua dat hoc phan 
+Ma so sinh vien: 20210001
+Ho dem: tran anh
+Ten: duy
+Diem: 3
+
+6. Hien thi danh sach hoc phan sinh vien chua dat 
+Ma hoc phan: mi1110
+Ten mon hoc: giai tich 1
+So tin chi: 3
+Diem: 3
+
+7. Hien thi GPA sinh vien 
+Ma so sinh vien: 20216793
+Diem trung binh tich luy: 1.75
+
+3. Tinh diem trung binh tich luy cua sinh vien 
+Ma so sinh vien: 20216793
+Diem trung binh tich luy: 1.75
+
+4. Hien thi sinh vien theo hoc phan
+Ma so sinh vien: 20216793
+Ho dem: dam anh
+Ten: anh
+Diem: 8
+
+Ma so sinh vien: 20210001
+Ho dem: tran anh
+Ten: duy
+Diem: 3
+
+5. Hien thi danh sach sinh vien chua dat hoc phan 
+Ma so sinh vien: 20210001
+Ho dem: tran anh
+Ten: duy
+Diem: 3
+
+6. Hien thi danh sach hoc phan sinh vien chua dat 
+Ma hoc phan: mi1110
+Ten mon hoc: giai tich 1
+So tin chi: 3
+Diem: 3
+
+7. Hien thi GPA sinh vien 
+Ma so sinh vien: 20216793
+Diem trung binh tich luy: 1.75
+
+
